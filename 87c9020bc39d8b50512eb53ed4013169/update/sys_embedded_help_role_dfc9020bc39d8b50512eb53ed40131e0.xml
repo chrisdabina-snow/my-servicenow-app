@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>1000</order>
+        <role display_value="x_881819_pc_hard_0.pch_user" name="x_881819_pc_hard_0.pch_user">1bc9020bc39d8b50512eb53ed40131de</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-06-10 10:14:37</sys_created_on>
+        <sys_id>dfc9020bc39d8b50512eb53ed40131e0</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>1bc9020bc39d8b50512eb53ed40131de</sys_name>
+        <sys_package display_value="PC Hardaware" source="x_881819_pc_hard_0">87c9020bc39d8b50512eb53ed4013169</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="PC Hardaware">87c9020bc39d8b50512eb53ed4013169</sys_scope>
+        <sys_update_name>sys_embedded_help_role_dfc9020bc39d8b50512eb53ed40131e0</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-06-10 10:14:37</sys_updated_on>
+    </sys_embedded_help_role>
+</record_update>
