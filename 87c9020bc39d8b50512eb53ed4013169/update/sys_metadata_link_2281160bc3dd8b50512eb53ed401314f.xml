@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>update</directory>
+        <documentkey>aa81160bc3dd8b50512eb53ed401314a</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_decision_question">
+    <sys_decision_question action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <answer>f581160bc3dd8b50512eb53ed401313a</answer>
+        <condition table="var__m_sys_decision_input_d6ed8a8fc39d8b50512eb53ed4013162">u_account_type=standard^u_discount&lt;15^EQ<item endquery="false" field="u_account_type" goto="false" newquery="false" operator="=" or="false" value="standard"/>
+            <item endquery="false" field="u_discount" goto="false" newquery="false" operator="&lt;" or="false" value="15"/>
+            <item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/>
+        </condition>
+        <decision_table display_value="PCH Tier Levels">d6ed8a8fc39d8b50512eb53ed4013162</decision_table>
+        <default_answer>false</default_answer>
+        <input_table>var__m_sys_decision_input_d6ed8a8fc39d8b50512eb53ed4013162</input_table>
+        <label>PCH Tier Levels_100</label>
+        <marked_for_deletion>false</marked_for_deletion>
+        <order>100</order>
+        <sys_class_name>sys_decision_question</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-06-10 10:48:26</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>aa81160bc3dd8b50512eb53ed401314a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>PCH Tier Levels_100</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="PC Hardaware" source="x_881819_pc_hard_0">87c9020bc39d8b50512eb53ed4013169</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="PC Hardaware">87c9020bc39d8b50512eb53ed4013169</sys_scope>
+        <sys_update_name>sys_decision_question_aa81160bc3dd8b50512eb53ed401314a</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-06-10 10:48:26</sys_updated_on>
+    </sys_decision_question>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-06-10 10:48:26</sys_created_on>
+        <sys_id>2281160bc3dd8b50512eb53ed401314f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>PCH Tier Levels_100</sys_name>
+        <sys_package display_value="PC Hardaware" source="x_881819_pc_hard_0">87c9020bc39d8b50512eb53ed4013169</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="PC Hardaware">87c9020bc39d8b50512eb53ed4013169</sys_scope>
+        <sys_update_name>sys_metadata_link_2281160bc3dd8b50512eb53ed401314f</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-06-10 10:48:26</sys_updated_on>
+        <tablename>sys_decision_question</tablename>
+    </sys_metadata_link>
+</record_update>

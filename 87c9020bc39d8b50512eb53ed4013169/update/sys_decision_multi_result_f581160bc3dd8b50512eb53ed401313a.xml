@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_decision_multi_result">
+    <sys_decision_multi_result action="INSERT_OR_UPDATE">
+        <decision_table display_value="PCH Tier Levels">d6ed8a8fc39d8b50512eb53ed4013162</decision_table>
+        <label>Approval Group: Sales Manager</label>
+        <result_elements/>
+        <sys_class_name>sys_decision_multi_result</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-06-10 10:48:23</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>f581160bc3dd8b50512eb53ed401313a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Approval Group: Sales Manager</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="PC Hardaware" source="x_881819_pc_hard_0">87c9020bc39d8b50512eb53ed4013169</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="PC Hardaware">87c9020bc39d8b50512eb53ed4013169</sys_scope>
+        <sys_update_name>sys_decision_multi_result_f581160bc3dd8b50512eb53ed401313a</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-06-10 10:48:23</sys_updated_on>
+    </sys_decision_multi_result>
+    <sys_variable_value action="delete_multiple" query="document_key=f581160bc3dd8b50512eb53ed401313a"/>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_decision_multi_result</document>
+        <document_key>f581160bc3dd8b50512eb53ed401313a</document_key>
+        <order>200</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-06-10 10:48:23</sys_created_on>
+        <sys_id>f181160bc3dd8b50512eb53ed401313c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-06-10 10:48:23</sys_updated_on>
+        <value>eaf092c7c3dd8b50512eb53ed4013102</value>
+        <variable display_value="Approval Group">e581d20bc3dd8b50512eb53ed40131e4</variable>
+    </sys_variable_value>
+</record_update>
